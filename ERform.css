@@ -1,0 +1,49 @@
+  .titletop{
+  text-align: center;
+  background-color: darkblue;
+  color: white;
+  font-size: 60px
+  }
+p{
+  margin: 0px;
+}
+
+
+.instructions{
+  margin-bottom: 5px;
+}
+
+.Fullname{
+  margin-top: 12px;
+}
+.emailinput{
+  
+}
+
+#sex{
+  
+}
+.Enroll{
+  margin-top: 50px;
+  margin-left: 50%;
+  border-radius: 20px;
+  background-color: none;
+  color: blue;
+  border-color: blue;
+  border-style: solid;
+}
+
+.Enroll:hover{
+  background-color: blue;
+  color: white;
+}
+.table{
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px
+  
+}
+
+.male,.female{
+  
+}
